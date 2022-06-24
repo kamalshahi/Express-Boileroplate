@@ -1,0 +1,22 @@
+{
+  "name": "express-boileroplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kamalshahi/Express-Boileroplate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kamalshahi/Express-Boileroplate/issues"
+  },
+  "homepage": "https://github.com/kamalshahi/Express-Boileroplate#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
