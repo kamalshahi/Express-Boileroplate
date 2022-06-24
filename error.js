@@ -5,7 +5,7 @@ class Error {
         this.error.stack = errObj.stack
     };
     createError(){
-        return error;
+        return this.error;
     }
 };
 module.exports = Error;
